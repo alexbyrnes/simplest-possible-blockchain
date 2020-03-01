@@ -1,0 +1,8 @@
+[package]
+name = "simplest-possible-blockchain"
+version = "0.1.0"
+authors = ["Alex Byrnes <alexbyrnes@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.10"
