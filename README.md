@@ -21,4 +21,5 @@ Will a simple currency unseat bitcoin? Probably not. But it will be more resista
 
 <li>The mining reward for this blockchain is the right to write a small bit of text to a block. This removes a lot of (valuable) concepts like addresses, transactions, keys, but it also might be interesting on its own. If the economics of it could be made practical, it might be used in publishing, social media, legal chain of custody, censorship resistance, or public disclosures.</li>
 </ol>
+
 _Contributions, questions, corrections welcome._
